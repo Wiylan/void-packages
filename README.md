@@ -12,6 +12,7 @@ See [void-linux/void-packages](https://github.com/void-linux/void-packages) for 
 ## Packages
 
 - librewolf
+- linux6.6 (ACS override patch)
 
 ## Building
 
