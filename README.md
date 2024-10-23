@@ -11,6 +11,8 @@ See [void-linux/void-packages](https://github.com/void-linux/void-packages) for 
 
 ## Packages
 
+- librewolf
+
 ## Building
 
 Clone this git repository:
