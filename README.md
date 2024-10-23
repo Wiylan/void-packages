@@ -13,6 +13,9 @@ See [void-linux/void-packages](https://github.com/void-linux/void-packages) for 
 
 - librewolf
 - linux6.6 (ACS override patch)
+- looking-glass
+    - looking-glass-dkms
+    - looking-glass-obs
 
 ## Building
 
