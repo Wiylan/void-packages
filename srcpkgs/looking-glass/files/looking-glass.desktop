@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Looking Glass Client
+GenericName=KVM Frame Relay
+Comment=Frame Relay implementation for VGA PCI Passthrough
+Type=Application
+Exec=looking-glass-client
+Icon=looking-glass
+Terminal=false
+Categories=System;
+StartupWMClass=looking-glass-client
+SingleMainWindow=true
